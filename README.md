@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm mermaidseaweav</h1>
-<h3 align="center">A passionate Testing and programming from Egypt</h3>
+<h3 align="center">A passionate Testing software and programming from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15591715/media/7b5ecb11b06dd4c99e06f79bceb9bbf9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mermaidseaweav&label=Profile%20views&color=0e75b6&style=flat" alt="mermaidseaweav" /> </p>
