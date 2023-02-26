@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Testing**
 
-- ⚡ Fun fact **I think and love autonomous learning**
+- ⚡ Fun fact **I fun and love autonomous learning**
 
 
 <h3 align="left">Languages and Tools:</h3>
