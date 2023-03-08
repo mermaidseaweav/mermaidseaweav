@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineer**
+- 🌱 I’m currently Working on **Projects in C language**
 
 - 💬 Ask me about **Testing and Html, css**
 
