@@ -10,7 +10,7 @@
 - 🌱 I’m currently Working on **Projects in C language**
 - 💬 Ask me about **Testing and Html, css**
 - ⚡ Fun fact **I fun and love autonomous learning**
-- 💪🏼 Fav Quote: "there are endless opportunities to take a turn into prosperity 🌟✨".
+- 💪🏼 Fav Quote: "there are endless opportunities to take a turn into smart programming ".
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
