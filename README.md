@@ -6,12 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineer**
+- 👨🏽‍💻 Currently , learning and growing my skillset in **data structures and algorithms, Software Engineer**
 - 🌱 I’m currently Working on **Projects in C language**
-
 - 💬 Ask me about **Testing and Html, css**
-
 - ⚡ Fun fact **I fun and love autonomous learning**
+- 💪🏼 Fav Quote: "there are endless opportunities to take a turn into prosperity 🌟✨".
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
