@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
-<h1 align="center">Hi 👋, I'm mermaidseaweav</h1>
+<h1 align="center">Hi 👋, I'm Jamelia</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mermaidseaweav&label=Profile%20views&color=0e75b6&style=flat" alt="mermaidseaweav" /> </p>
