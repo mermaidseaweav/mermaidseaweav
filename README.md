@@ -12,12 +12,15 @@
   
 -#  🔭 I'm currently working on
   **Projects in C language**
+  
 -# 💬 Ask me about 
   **Testing and Html, css**
+  
 - # ⚡ Fun fact 
    **I fun and love autonomous learning**
--# 💪🏼 Fav Quote:
-     "there are endless opportunities to take a turn into a smart programmer from learning and practice".
+   
+- # 💪🏼 Fav Quote
+   **"there are endless opportunities to take a turn into a smart programmer from learning and practice".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
