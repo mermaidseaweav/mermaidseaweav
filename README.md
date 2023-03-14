@@ -7,13 +7,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - # 👨🏽‍💻 Currently , learning and growing my skillset in 
- **data structures and algorithms, Software Engineer
-  Css, html **
+  **data structures and algorithms, Software Engineer; Css, html**
   
--#  🔭 I'm currently working on
+- # 🔭 I'm currently working on
   **Projects in C language**
   
--# 💬 Ask me about 
+- # 💬 Ask me about 
   **Testing and Html, css**
   
 - # ⚡ Fun fact 
